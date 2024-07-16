@@ -1,0 +1,37 @@
+{
+  "name": "burcu",
+  "title": "I am a Frontend",
+  "title1": "Developer...",
+  "description1": "...who likes to craft solid and scalable frontend",
+  "description2": "products with great user experiences.",
+  "skills": "Skills",
+  "profile": "Profile",
+  "info": "Basic Information",
+  "birthday": "Birthday",
+  "center": "Residence City",
+  "education": "Education Level",
+  "preffered": "Preferred Role",
+  "about": "About Me",
+  "about1": "Hello! I'm Burcu. Thanks to my deep interest and experience in frontend technologies, I combine aesthetics and functionality for each project, offering solutions that meet users' needs.",
+  "about2": "I continually enhance my skills in frontend development and UI/UX design, staying open to new technologies and design trends.",
+  "projects": "Projects",
+  "projectsList": {
+    "project1": {
+      "title": "PIZZA PIZZA",
+      "description": "This project is an interactive web application where users can create customizable pizza orders. Developed using React, the site allows users to select pizza size, choose crust thickness, and add toppings of their choice. Users can see the dynamically updated total price as they make their selections and proceed to place their orders. This project aims to leverage React's component-based structure to deliver a dynamic and user-centric experience."
+    },
+    "project2": {
+      "title": "CLONE X",
+      "description": "I developed a Twitter clone using React, where users can view tweets from real people. This project leverages React's powerful capabilities to create a seamless and responsive user experience.This project showcases my proficiency in frontend development and my ability to work with dynamic data sources. "
+    },
+    "project3": {
+      "title": "WATCHLİST",
+      "description": "I developed a film list project using React. In this project, users can create their own lists, add films, and remove them. With its user-friendly interface, managing films becomes easy and enjoyable. This project showcases my skills in creating interactive applications with React.."
+    }
+    
+  },
+  "site":"View Site",
+  "send": "Send me a message!",
+  "message1": "Got a question or proposal, or just want",
+  "message2": "to say hello? Go ahead."
+}

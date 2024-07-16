@@ -1,0 +1,36 @@
+{
+  "name": "burcu",
+  "title": "Ben bir Frontend",
+  "title1": "Geliştiriciyim...",
+  "description1": "sağlam ve ölçeklenebilir frontend ürünleri oluşturmayı",
+  "description2": "ve harika kullanıcı deneyimleri sunmayı seven....",
+  "skills": "Beceriler",
+  "profile": "Profil",
+  "info": "Temel Bilgiler",
+  "birthday": "Doğum Günü",
+  "center": "İkamet Şehri",
+  "education": "Eğitim Düzeyi",
+  "preffered": "Tercih Edilen Rol",
+  "about": "Hakkımda",
+  "about1": "Merhaba! Ben Burcu. Frontend teknolojilerine olan derin ilgim ve deneyimim sayesinde, her proje için estetik ve işlevselliği bir araya getiriyor ve kullanıcıların ihtiyaçlarını karşılayan çözümler sunuyorum.",
+  "about2": "Frontend geliştirme ve UI/UX tasarımı konusundaki becerilerimi sürekli olarak geliştiriyor, yeni teknolojilere ve tasarım trendlerine açık kalıyorum.",
+  "projects": "Projeler",
+  "projectsList": {
+    "project1": {
+      "title": "PiZZA PiZZA",
+      "description": "Bu proje, kullanıcıların özelleştirilebilir pizza siparişleri oluşturabileceği interaktif bir web uygulamasıdır. React kullanılarak geliştirilen site, kullanıcılara pizza boyutunu seçme, hamur kalınlığını belirleme ve istedikleri malzemeleri ekleme imkanı sunar. Kullanıcılar seçimlerini yaparken dinamik olarak güncellenen toplam fiyatı görebilir ve siparişlerini verebilirler. Bu proje, React'in bileşen tabanlı yapısını kullanarak dinamik ve kullanıcı odaklı bir deneyim sunmayı amaçlamaktadır."
+    },
+    "project2": {
+      "title": "X KLONU",
+      "description": "React kullanarak bir Twitter klonu geliştirdim. Bu projede, kullanıcılar gerçek kişilerin tweetlerini görebiliyorlar. React'in güçlü yeteneklerini kullanarak, sorunsuz ve duyarlı bir kullanıcı deneyimi oluşturmayı başardım.Bu proje, frontend geliştirme konusundaki yetkinliğimi ve dinamik veri kaynaklarıyla çalışma becerimi gösteriyor. " },
+    "project3": {
+      "title": "iZLENECEKLER",
+      "description": "React kullanarak bir film listesi projesi geliştirdim. Bu projede, kullanıcılar kendi film listelerini oluşturabilir, filmler ekleyebilir ve çıkarabilirler. Kullanıcı dostu arayüzü sayesinde, filmleri yönetmek kolay ve eğlenceli hale geliyor. Bu proje, React ile interaktif uygulamalar oluşturma konusundaki becerilerimi sergiliyor."
+    }
+    
+  },
+  "site":"Siteye Git",
+  "send": "Bana bir mesaj gönder!",
+  "message1": "Bir sorunuz veya teklifiniz mi var, yoksa sadece",
+  "message2": "merhaba demek mi istiyorsunuz? Hadi!"
+}
