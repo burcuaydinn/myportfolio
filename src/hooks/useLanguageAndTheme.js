@@ -18,8 +18,8 @@ const useLanguageAndTheme = () => {
       } catch (error) {
         console.error("Error fetching language data:", error);
       }
-    };
-  
+    }; 
+    
     fetchData();
   }, [language, dispatch]);
 
