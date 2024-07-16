@@ -13,13 +13,13 @@ const useLanguageAndTheme = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.post(`/data/${language}.json`);
+        const response = await axios.get(`/data/${language}.json`);
         dispatch(setText(response.data));
       } catch (error) {
         console.error("Error fetching language data:", error);
       }
     };
-
+  
     fetchData();
   }, [language, dispatch]);
 
