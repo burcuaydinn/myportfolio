@@ -21,11 +21,11 @@ function Profile() {
       } flex justify-center py-10`}
     >
       <div className="w-full max-w-screen-lg">
-        <h2 className=" text-left ml-[8rem] md:ml-[60px] text-5xl font-bold text-custom-yellow">
+        <h2 className=" text-left ml-[2rem] md:ml-[60px] text-5xl font-bold text-custom-yellow">
           {text.profile}
         </h2>
         <CardGroup className="h-auto mb-12 flex flex-col lg:flex-row">
-          <Card className="text-white ml-0.5 md:ml-6 p-6 border-none bg-transparent w-full lg:w-1/3">
+          <Card className="text-white  md:ml-6 p-6 border-none bg-transparent w-full lg:w-1/3">
             <CardBody>
               <CardTitle tag="h5" className="text-2xl font-bold mb-3">
                 {text.info}

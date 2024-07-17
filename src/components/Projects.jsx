@@ -28,10 +28,11 @@ const Projects = () => {
     {
       id: "project3",
       image: watch,
-      siteLink: "https://fsweb-s10g3-redux-watchlist-solution-kpce.onrender.com",
-      githubLink: "https://github.com/burcuaydinn/fsweb-s10g3-redux-watchlist-solution",
+      siteLink:
+        "https://fsweb-s10g3-redux-watchlist-solution-kpce.onrender.com",
+      githubLink:
+        "https://github.com/burcuaydinn/fsweb-s10g3-redux-watchlist-solution",
     },
-    
   ];
 
   return (
@@ -41,7 +42,7 @@ const Projects = () => {
       } min-h-screen p-10`}
     >
       <h1
-        className={`border-none font-bold translate-y-[20px] lg:translate-y-[50px] text-5xl ml-[65px] lg:ml-[280px]  ${
+        className={`border-none font-bold translate-y-[20px] lg:translate-y-[50px] text-5xl ml-[4px] lg:ml-[280px]  ${
           darkMode ? "text-custom-yellow" : "text-custom-skills"
         }`}
       >
@@ -106,7 +107,7 @@ const Projects = () => {
                     darkMode ? "text-[#CBF281]" : "text-[#120B39]"
                   }`}
                 >
-                 {text.site}
+                  {text.site}
                 </a>
                 <a
                   href={project.githubLink}
@@ -126,5 +127,3 @@ const Projects = () => {
 };
 
 export default Projects;
-
-

@@ -28,7 +28,7 @@ function Skills() {
       }`}
     >
       <h2
-        className={`border-none font-bold text-5xl translate-y-[50px] md:translate-y-[70px] ml-[8rem] md:ml-[300px] ${
+        className={`border-none font-bold text-5xl translate-y-[50px] md:translate-y-[70px] ml-[2rem] md:ml-[300px] ${
           darkMode ? "text-custom-yellow" : "text-custom-skills"
         }`}
       >
