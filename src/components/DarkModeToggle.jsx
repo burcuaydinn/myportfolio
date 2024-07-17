@@ -5,7 +5,7 @@ const DarkModeToggle = () => {
   const { darkMode, text, handleToggleDarkMode } = useLanguageAndTheme();
 
   return (
-    <div className="absolute top-2 -translate-y-[635px] md:translate-y-[0px] mr-[10rem] md:mr-[16rem] p-4">
+    <div className="absolute top-2 -translate-y-[635px] md:translate-y-[0px] mr-[12rem] md:mr-[16rem] p-4">
       <label className="flex items-center ml-4 relative">
         <input
           type="checkbox"
@@ -35,7 +35,7 @@ const DarkModeToggle = () => {
         </div>
         <span
           className={`ml-3 font-bold ${
-            darkMode ? "text-gray-200" : "text-custom-blue"
+            darkMode ? "text-gray-200" : "text-[#8F88FF]"
           }`}
         >
           {darkMode ? text.lightmode : text.darkmode}
