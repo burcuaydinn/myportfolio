@@ -35,7 +35,7 @@ const DarkModeToggle = () => {
         </div>
         <span
           className={`ml-3 font-bold ${
-            darkMode ? "text-gray-200" : "text-gray-800"
+            darkMode ? "text-gray-200" : "text-custom-blue"
           }`}
         >
           {darkMode ? "LIGHT MODE" : "DARK MODE"}
