@@ -7,7 +7,7 @@ import watch from "../assets/watchlist.jpg";
 const Projects = () => {
   const { darkMode, text } = useLanguageAndTheme();
 
-  // Verilerin yüklendiğini kontrol ediyoruz
+  // Verilerin yüklendiğini kontrol ediyorum
   if (!text || !text.projectsList) {
     return <div>Loading...</div>;
   }
