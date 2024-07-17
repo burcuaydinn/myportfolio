@@ -65,7 +65,7 @@ function Profile() {
               className="h-72 w-80 lg:h-72  lg:w-72 object-cover -mt-6 rounded-lg"
             />
           </Card>
-          <Card className="text-white  border-none bg-transparent w-full lg:w-1/3 lg:ml-[-1rem]">
+          <Card className="text-white  border-none bg-transparent w-full lg:w-1/3 px-4 lg:ml-[-1rem]">
             <CardBody>
               <CardTitle tag="h5" className="text-2xl font-bold mb-4">
                 {text.about}
