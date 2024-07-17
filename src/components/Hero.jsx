@@ -98,7 +98,7 @@ function Hero() {
         <img
           src="https://pbs.twimg.com/profile_images/1677790589096525825/ibmbT9Wf_400x400.jpg"
           alt="Profile"
-          className="w-4/5 h-4/5 lg:w-[350px] lg:h-[350px] md:-translate-x-[220px] md:translate-y-[60px]  object-cover rounded-lg"
+          className="h-4/5 lg:w-[350px] lg:h-[350px] md:-translate-x-[220px] md:translate-y-[60px]  object-cover rounded-lg"
         />
       </div>
     </div>
