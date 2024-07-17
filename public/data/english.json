@@ -1,6 +1,6 @@
 {
-  "darkmode":"DARK MODE",
-  "lightmode":"LIGHT MODE",
+  "darkmode": "DARK MODE",
+  "lightmode": "LIGHT MODE",
   "name": "burcu",
   "title": "I am a Frontend",
   "title1": "Developer...",
@@ -30,9 +30,8 @@
       "title": "WATCHLİST",
       "description": "I developed a film list project using React. In this project, users can create their own lists, add films, and remove them. With its user-friendly interface, managing films becomes easy and enjoyable. This project showcases my skills in creating interactive applications with React.."
     }
-    
   },
-  "site":"View Site",
+  "site": "View Site",
   "send": "Send me a message!",
   "message1": "Got a question or proposal, or just want",
   "message2": "to say hello? Go ahead."

@@ -1,6 +1,6 @@
 {
-  "darkmode":"KARANLIK MOD",
-  "lightmode":"AÇIK MOD",
+  "darkmode": "KARANLIK MOD",
+  "lightmode": "AÇIK MOD",
   "name": "burcu",
   "title": "Ben bir Frontend",
   "title1": "Geliştiriciyim...",
@@ -24,14 +24,14 @@
     },
     "project2": {
       "title": "X KLONU",
-      "description": "React kullanarak bir Twitter klonu geliştirdim. Bu projede, kullanıcılar gerçek kişilerin tweetlerini görebiliyorlar. React'in güçlü yeteneklerini kullanarak, sorunsuz ve duyarlı bir kullanıcı deneyimi oluşturmayı başardım.Bu proje, frontend geliştirme konusundaki yetkinliğimi ve dinamik veri kaynaklarıyla çalışma becerimi gösteriyor. " },
+      "description": "React kullanarak bir Twitter klonu geliştirdim. Bu projede, kullanıcılar gerçek kişilerin tweetlerini görebiliyorlar. React'in güçlü yeteneklerini kullanarak, sorunsuz ve duyarlı bir kullanıcı deneyimi oluşturmayı başardım.Bu proje, frontend geliştirme konusundaki yetkinliğimi ve dinamik veri kaynaklarıyla çalışma becerimi gösteriyor. "
+    },
     "project3": {
       "title": "iZLENECEKLER",
       "description": "React kullanarak bir film listesi projesi geliştirdim. Bu projede, kullanıcılar kendi film listelerini oluşturabilir, filmler ekleyebilir ve çıkarabilirler. Kullanıcı dostu arayüzü sayesinde, filmleri yönetmek kolay ve eğlenceli hale geliyor. Bu proje, React ile interaktif uygulamalar oluşturma konusundaki becerilerimi sergiliyor."
     }
-    
   },
-  "site":"Siteye Git",
+  "site": "Siteye Git",
   "send": "Bana bir mesaj gönder!",
   "message1": "Bir sorunuz veya teklifiniz mi var, yoksa sadece",
   "message2": "merhaba demek mi istiyorsunuz? Hadi!"

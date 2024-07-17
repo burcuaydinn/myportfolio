@@ -2,7 +2,7 @@ import React from "react";
 import useLanguageAndTheme from "../hooks/useLanguageAndTheme";
 
 const DarkModeToggle = () => {
-  const { darkMode, text ,handleToggleDarkMode } = useLanguageAndTheme();
+  const { darkMode, text, handleToggleDarkMode } = useLanguageAndTheme();
 
   return (
     <div className="absolute top-2 -translate-y-[635px] md:translate-y-[0px] mr-[10rem] md:mr-[16rem] p-4">
