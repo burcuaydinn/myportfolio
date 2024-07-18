@@ -9,18 +9,18 @@ const useLanguageAndTheme = () => {
   const darkMode = useSelector((state) => state.theme.darkMode);
   const language = useSelector((state) => state.language.language);
   const text = useSelector((state) => state.language.text);
-  const [loading, setLoading] = useState(true); // Yeni loading durumu
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetchData = async () => {
-      setLoading(true); // Yüklenme durumunu başlat
+      setLoading(true);
       try {
         const response = await axios.get(`/data/${language}.json`);
         dispatch(setText(response.data));
       } catch (error) {
         console.error("Error fetching language data:", error);
       }
-      setLoading(false); // Yüklenme durumunu bitir
+      setLoading(false);
     };
 
     fetchData();
@@ -38,7 +38,7 @@ const useLanguageAndTheme = () => {
     darkMode,
     language,
     text,
-    loading, // Yüklenme durumunu döndür
+    loading,
     handleLanguageChange,
     handleToggleDarkMode,
   };
