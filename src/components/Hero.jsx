@@ -57,7 +57,7 @@ function Hero() {
                   rel="noopener noreferrer"
                 >
                   <button
-                    className={`w-[90px] md:w-[127px] h-[40px] md:h-[52px] rounded-[6px] border  p-[12px 20px 12px 12px] gap-[10px] text-center items-center flex border-customButton text-xs md:text-lg leading-7 font-medium ${
+                    className={`w-[110px] md:w-[127px] h-[40px] md:h-[52px] rounded-[6px] border  p-[12px 20px 12px 12px] gap-[10px] text-center items-center flex border-customButton text-xs md:text-lg leading-7 font-medium ${
                       darkMode
                         ? "bg-custom-darksf text-custom-bestwhite border border-white"
                         : "bg-custom-bestwhite text-custom-darksf"
@@ -73,7 +73,7 @@ function Hero() {
                   rel="noopener noreferrer"
                 >
                   <button
-                    className={`w-[90px] md:w-[127px] h-[40px] md:h-[52px] rounded-[6px] border  p-[12px 20px 12px 12px] gap-[10px] text-center items-center flex border-customButton text-xs md:text-lg leading-7 font-medium ${
+                    className={`w-[110px] md:w-[127px] h-[40px] md:h-[52px] rounded-[6px] border  p-[12px 20px 12px 12px] gap-[10px] text-center items-center flex border-customButton text-xs md:text-lg leading-7 font-medium ${
                       darkMode
                         ? "bg-custom-darksf text-custom-bestwhite border border-white"
                         : "bg-custom-bestwhite text-custom-darksf"
