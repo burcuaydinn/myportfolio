@@ -16,13 +16,13 @@ const Projects = () => {
     {
       id: "project1",
       image: pizza,
-      siteLink: "#",
+      siteLink: "https://pizzapizza-three.vercel.app",
       githubLink: "https://github.com/burcuaydinn/fsweb-s7-challenge-pizza",
     },
     {
       id: "project2",
       image: twitter,
-      siteLink: "#",
+      siteLink: "https://react-twitter-clone-iota.vercel.app",
       githubLink: "https://github.com/burcuaydinn/react-twitter-clone",
     },
     {
