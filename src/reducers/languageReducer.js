@@ -6,7 +6,7 @@ const initialState = {
 const SET_LANGUAGE = "SET_LANGUAGE";
 const SET_TEXT = "SET_TEXT";
 
-// Reducer
+
 const languageReducer = (state = initialState, action) => {
   switch (action.type) {
     case SET_LANGUAGE:
@@ -25,7 +25,7 @@ const languageReducer = (state = initialState, action) => {
   }
 };
 
-// Action Creators
+
 export const setLanguage = (language) => ({
   type: SET_LANGUAGE,
   payload: language,
